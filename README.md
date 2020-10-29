@@ -6,7 +6,7 @@ If you know the basics of Ember, this project should take no more than **2 hours
 ## The challenge
 We'd like you to create an Ember component for displaying document data in tabular form, and then integrate that component into an existing Ember app.
 
-![alt text](https://github.com/incloudcounsel/frontend-assessment-draft/raw/master/mockup.png)
+![alt text](https://github.com/incloudcounsel/icc-frontend-assessment/raw/master/mockup.png)
 
 ## Desired behavior
 * You're only responsible for implementing the table. All other elements have been provided for you.
@@ -41,7 +41,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone https://github.com/incloudcounsel/frontend-assessment-draft.git`
+* `git clone https://github.com/incloudcounsel/icc-frontend-assessment.git`
 * `cd icc-frontend-assessment`
 * `npm install`
 * `npm start`
