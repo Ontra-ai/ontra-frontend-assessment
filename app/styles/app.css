@@ -1,0 +1,31 @@
+body, select {
+  margin: 0;
+  font-size: 18px;
+  font-family: sans-serif;
+}
+
+.app-header {
+  height: 70px;
+  box-shadow: 0 1px 2px rgba(0,0,0,.4), inset 0 0 2px rgba(255,255,255,.75);
+}
+.app-header .container {
+  display: flex;
+  align-items: center;
+}
+
+.app-body {
+  margin-top: 20px;
+}
+
+.container {
+  max-width: 1000px;
+  height: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.filter-controls {
+  margin-bottom: 20px;
+}
