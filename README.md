@@ -1,8 +1,5 @@
 # icc-frontend-assessment
 
-## Important
-If you know the basics of Ember, this project should take no more than **2 hours** to complete. If it takes less time than that, great. Otherwise, try not to spend more than about 2 hours.
-
 ## The challenge
 We'd like you to create an Ember component for displaying document data in tabular form, and then integrate that component into an existing Ember app.
 
@@ -31,10 +28,9 @@ We'd like you to create an Ember component for displaying document data in tabul
 * You're free to modify any file in this project. Don't modify the raw table data itself, though you're free to transform the data before displaying it.
 
 
-
 ## Prerequisites
 
-You will need the following things properly installed on your computer.
+You will need the following installed on your computer:
 
 * [Git](https://git-scm.com/)
 * [Node.js](https://nodejs.org/) (with npm)
