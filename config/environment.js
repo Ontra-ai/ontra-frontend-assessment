@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'icc-frontend-assessment',
+    modulePrefix: 'ontra-frontend-assessment',
     environment,
     rootURL: '/',
     locationType: 'auto',

@@ -1,9 +1,9 @@
-# icc-frontend-assessment
+# ontra-frontend-assessment
 
 ## The challenge
 We'd like you to create an Ember component for displaying document data in tabular form, and then integrate that component into an existing Ember app.
 
-![alt text](https://github.com/incloudcounsel/icc-frontend-assessment/raw/main/mockup.png)
+![alt text](https://github.com/ontra_ai/ontra-frontend-assessment/raw/main/mockup.png)
 
 ## Desired behavior
 * You're only responsible for implementing the table. All other elements have been provided for you.
@@ -37,8 +37,8 @@ You will need the following installed on your computer:
 
 ## Installation
 
-* `git clone https://github.com/incloudcounsel/icc-frontend-assessment.git`
-* `cd icc-frontend-assessment`
+* `git clone https://github.com/ontra_ai/ontra-frontend-assessment.git`
+* `cd ontra-frontend-assessment`
 * `npm install`
 * `npm start`
 * Visit the app at [http://localhost:4200](http://localhost:4200).
@@ -48,6 +48,6 @@ You will need the following installed on your computer:
 * After you clone, create a new branch and commit all your work there.
 * When you're done, use this command to generate a patch file:
 ```
-git format-patch main --stdout > icc-frontend-assessment.patch
+git format-patch main --stdout > ontra-frontend-assessment.patch
 ```
 * Then, submit the file to Greenhouse using the link you've been given.
