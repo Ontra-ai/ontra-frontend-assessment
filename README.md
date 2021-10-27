@@ -37,7 +37,7 @@ You will need the following installed on your computer:
 
 ## Installation
 
-* `git clone https://github.com/ontra_ai/ontra-frontend-assessment.git`
+* `git clone https://github.com/ontra-ai/ontra-frontend-assessment.git`
 * `cd ontra-frontend-assessment`
 * `npm install`
 * `npm start`
